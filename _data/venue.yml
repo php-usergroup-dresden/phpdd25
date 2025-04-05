@@ -1,12 +1,8 @@
-name: 'BioInnovationsZentrum Dresden'
-address_full: 'Tatzberg 47, 01307 Dresden, Deutschland'
+name: 'TBD'
+address_full: ''
 image_url: '/assets/images/welcome/biz-dresden-meetup.jpeg'
 audience_image_url: '/assets/images/welcome/audience.webp'
-map_image_url: '/assets/images/venue/map.svg'
-map_url: 'https://www.openstreetmap.org/#map=18/51.056440/13.775246'
+map_image_url: '/assets/images/venue/map.png'
+map_url: 'https://www.openstreetmap.org/?#map=14/51.05154/13.73755'
 description: >
-  The venue is located in the Dresden Johannstadt, close to the bus stop "Tatzberg" or "Pfotenhauerstraße". 
-  <br><br>
-  The conference talks take place in the conference hall on the 5th floor. 
-  <br><br>
-  If the weather is fine, we will have an socializing after the conference in the courtyard.
+  

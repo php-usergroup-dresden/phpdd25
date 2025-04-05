@@ -6,33 +6,19 @@ schedule:
     language: ''
     speaker: false
 
-  - name: 'Anke Häslich & Holger Woltersdorf'
+  - name: ''
     time: '09:00'
     topic: 'Opening'
     card:
     language: ''
     speaker: false
 
-  - name: 'Juliette Reinders Folmer'
+  - name: ''
     time: '09:30'
-    topic: 'Resurrecting the dead (Keynote)'
+    topic: 'Session 1'
     card: '1'
     language: 'en'
-    speaker: true
-
-  - name: 'Sebastian Bergmann'
-    time: '10:15'
-    topic: 'So you think you know PHPUnit'
-    card: '6'
-    language: 'en'
-    speaker: true
-
-  - name: 'Sebastian Kurfürst'
-    time: '11:15'
-    topic: 'How to write unmaintainable code'
-    card: '4'
-    language: 'en'
-    speaker: true
+    speaker: false
 
   - name: ''
     time: '12:00'
@@ -41,19 +27,12 @@ schedule:
     language: ''
     speaker: false
 
-  - name: 'Sebastian Feldmann'
+  - name: ''
     time: '13:15'
-    topic: 'A journey from Monolith to Modulith to Microservices and back'
+    topic: 'Session 2'
     card: '3'
     language: 'en'
-    speaker: true
-
-  - name: 'Ondřej Mirtes'
-    time: '14:15'
-    topic: 'Writing Custom Rules for PHPStan'
-    card: '2'
-    language: 'en'
-    speaker: true
+    speaker: false
 
   - name: ''
     time: '15:00'
@@ -62,32 +41,11 @@ schedule:
     language: ''
     speaker: false
 
-  - name: 'Anne-Julia Seitz'
+  - name: ''
     time: '15:30'
-    topic: 'Running PHP-Applications in a Multi-Process Container'
+    topic: 'Session 3'
     card: '7'
     language: 'en'
-    speaker: true
-
-  - name: 'Stephan Hochdörfer'
-    time: '16:30'
-    topic: 'Need a MACH-ready Search Engine? Choose Gally'
-    card: '5'
-    language: 'en'
-    speaker: true
-
-  - name: 'Carsten Windler'
-    time: '17:30'
-    topic: 'How to build sustainable web applications'
-    card: '8'
-    language: 'en'
-    speaker: true
-
-  - name: 'Anke Häslich & Holger Woltersdorf'
-    time: '18:15'
-    topic: 'Closing'
-    card:
-    language: ''
     speaker: false
 
   - name: ''
