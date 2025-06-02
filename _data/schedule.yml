@@ -15,7 +15,7 @@ schedule:
 
   - name: ''
     time: '09:30'
-    topic: 'Session 1'
+    topic: 'Talks'
     card: '1'
     language: 'en'
     speaker: false
@@ -28,8 +28,22 @@ schedule:
     speaker: false
 
   - name: ''
-    time: '13:15'
-    topic: 'Session 2'
+    time: '13:00'
+    topic: 'Workshop 1 Session 1'
+    card: '3'
+    language: 'en'
+    speaker: false
+
+  - name: ''
+    time: '13:00'
+    topic: 'Workshop 2 Session 1'
+    card: '3'
+    language: 'en'
+    speaker: false
+
+  - name: ''
+    time: '13:00'
+    topic: 'Fish Bowl Discussion and spontaneous Lightning Talks'
     card: '3'
     language: 'en'
     speaker: false
@@ -43,7 +57,21 @@ schedule:
 
   - name: ''
     time: '15:30'
-    topic: 'Session 3'
+    topic: 'Workshop 1 Session 2'
+    card: '7'
+    language: 'en'
+    speaker: false
+
+  - name: ''
+    time: '15:30'
+    topic: 'Workshop 2 Session 2'
+    card: '7'
+    language: 'en'
+    speaker: false
+
+  - name: ''
+    time: '15:30'
+    topic: 'Fish Bowl Discussion and spontaneous Lightning Talks'
     card: '7'
     language: 'en'
     speaker: false

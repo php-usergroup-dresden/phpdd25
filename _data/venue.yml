@@ -1,8 +1,13 @@
-name: 'TBD'
-address_full: ''
+name: 'move elevator GmbH'
+address_full: 'Königsbrücker Straße 76, 01099 Dresden, Deutschland'
 image_url: '/assets/images/welcome/biz-dresden-meetup.jpeg'
 audience_image_url: '/assets/images/welcome/audience.webp'
-map_image_url: '/assets/images/venue/map.png'
-map_url: 'https://www.openstreetmap.org/?#map=14/51.05154/13.73755'
+map_image_url: '/assets/images/venue/map.svg'
+map_url: 'https://www.openstreetmap.org/?#map=19/51.071489/13.751063&layers=N'
 description: >
+  The venue is located in the Dresden Neustadt, close to the tram stop "Bischofsweg". 
+    <br><br>
+    The conference talks will take place in the move:elevator lounge. The workshops will be held in the move:elevator workshop rooms.
+    <br><br>
+    If the weather is fine, we will have an socializing after the conference on the terrace
   
