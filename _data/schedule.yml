@@ -17,7 +17,7 @@ schedule:
     time: '09:30'
     topic: 'Talks'
     card: '1'
-    language: 'en'
+    language: ''
     speaker: false
 
   - name: ''
@@ -28,28 +28,56 @@ schedule:
     speaker: false
 
   - name: ''
-    time: 'from 13:00'
-    topic: 'Workshop 1 (limited to 15 people)'
+    time: '13:00'
+    topic: 'Workshop 1 Session 1'
     card: '3'
-    language: 'en'
+    language: ''
     speaker: false
 
   - name: ''
-    time: 'from 13:00'
-    topic: 'Workshop 2 (limited to 15 people)'
+    time: '13:00'
+    topic: 'Workshop 2 Session 1'
     card: '3'
-    language: 'en'
+    language: ''
     speaker: false
 
   - name: ''
-    time: 'from 13:00'
-    topic: 'Barcamp in various rooms such as Fish Bowl Discussion and spontaneous Lightning Talks'
+    time: '13:00'
+    topic: 'Fish Bowl Discussion and spontaneous Lightning Talks'
     card: '3'
-    language: 'en'
+    language: ''
     speaker: false
 
   - name: ''
-    time: 'from 16:45'
+    time: '15:00'
+    topic: 'Coffee Break'
+    card:
+    language: ''
+    speaker: false
+
+  - name: ''
+    time: '15:30'
+    topic: 'Workshop 1 Session 2'
+    card: '7'
+    language: ''
+    speaker: false
+
+  - name: ''
+    time: '15:30'
+    topic: 'Workshop 2 Session 2'
+    card: '7'
+    language: ''
+    speaker: false
+
+  - name: ''
+    time: '15:30'
+    topic: 'Fish Bowl Discussion and spontaneous Lightning Talks'
+    card: '7'
+    language: ''
+    speaker: false
+
+  - name: ''
+    time: '18:45'
     topic: 'Community & Socializing'
     card:
     language: ''
