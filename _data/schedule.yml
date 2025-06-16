@@ -14,8 +14,22 @@ schedule:
     speaker: false
 
   - name: ''
-    time: '09:30'
-    topic: 'Talks'
+    time: '09:15'
+    topic: 'Talk 1'
+    card: '1'
+    language: ''
+    speaker: false
+
+  - name: ''
+    time: '10:10'
+    topic: 'Talk 2'
+    card: '1'
+    language: ''
+    speaker: false
+
+  - name: ''
+    time: '11:05'
+    topic: 'Talk 3'
     card: '1'
     language: ''
     speaker: false
