@@ -29,22 +29,22 @@ speakers:
         url: 'https://www.linkedin.com/in/christopher-hertel/'
     type: 'Talk/Workshop'
 
-  - name: 'TBD'
+  - name: 'Stephan Hochdörfer'
     bio: |
-      TBD
-    image: 'https://dummyimage.com/300x300/fff/aaa'
+      Stephan Hochdörfer is the Head of IT Business Operations at bitExpert AG, a company that specializes in pro-code and low-code software development. In his role, he oversees the software development processes, technical operations, sales, and strategic planning.
+    image: '/assets/images/speakers/stephan-hochdoerfer.webp'
     talk:
-      title: 'TBD'
+      title: 'Simplify Your Dev Workflow with DDEV'
       abstract: |
-        TBA
+        This session explores how DDEV enhances your development workflow by providing a standardized yet customizable approach to containerization. DDEV allows easy setup and management of your PHP application in a containerized environment, simplifying deployment and ensuring a consistent setup for all team members. Using DDEV enhances collaboration and reduces onboarding time for new developers, helping deliver projects on time, confidently, and efficiently.
     social:
-      - icon: 'twitter'
-        url: 'https://x.com/i/flow/login?redirect_after_login=%2Fphpugdd'
       - icon: 'linkedin'
-        url: 'https://www.linkedin.com/company/php-usergroup-dresden/posts/?feedView=all'
+        url: 'https://www.linkedin.com/in/shochdoerfer/'
+      - icon: 'twitter'
+        url: 'https://twitter.com/shochdoerfer'
       - icon: 'mastodon'
-        url: 'https://phpc.social/@phpugdd'
-    type: 'Talk/Workshop'
+        url: 'https://phpc.social/@shochdoerfer'
+    type: 'Talk'
 
   - name: 'TBD'
     bio: |
