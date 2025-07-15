@@ -13,26 +13,26 @@ schedule:
     language: ''
     speaker: false
 
-  - name: ''
+  - name: 'Sebastian Feldmann'
     time: '09:15'
-    topic: 'Talk 1'
-    card: '1'
-    language: ''
-    speaker: false
+    topic: 'Get better not bigger'
+    card: '3'
+    language: 'en'
+    speaker: true
 
-  - name: ''
+  - name: 'Stephan Hochdörfer'
     time: '10:10'
-    topic: 'Talk 2'
-    card: '1'
-    language: ''
-    speaker: false
+    topic: 'Simplify Your Dev Workflow with DDEV'
+    card: '2'
+    language: 'en'
+    speaker: true
 
-  - name: ''
+  - name: 'Christopher Hertel'
     time: '11:05'
-    topic: 'Talk 3'
+    topic: 'Agentic Applications with Symfony'
     card: '1'
-    language: ''
-    speaker: false
+    language: 'en'
+    speaker: true
 
   - name: ''
     time: '12:00'
@@ -48,26 +48,26 @@ schedule:
     language: ''
     speaker: false
 
-  - name: ''
+  - name: 'Sebastian Feldmann'
     time: 'from 13:15'
-    topic: 'Workshop (limited to 15 persons)'
+    topic: 'Domain Driven Design a Team Approach (limited to 15 persons)'
     card: '3'
-    language: ''
-    speaker: false
+    language: 'en'
+    speaker: true
 
-  - name: ''
+  - name: 'Christopher Hertel'
     time: 'from 13:15'
-    topic: 'Workshop (limited to 15 persons)'
-    card: '3'
-    language: ''
-    speaker: false
+    topic: 'Agentic Applications with Symfony (limited to 15 persons)'
+    card: '1'
+    language: 'en'
+    speaker: true
 
-  - name: ''
+  - name: 'Patrick Pächnatz'
     time: 'from 13:15'
-    topic: 'Barcamp in various rooms such as Fish Bowl Discussion and spontaneous Lightning Talks'
-    card: '3'
-    language: ''
-    speaker: false
+    topic: 'Basics of Kubernetes (limited to 15 persons)'
+    card: '4'
+    language: 'en'
+    speaker: true
 
   - name: ''
     time: 'from 17:00'
