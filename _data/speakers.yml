@@ -1,21 +1,4 @@
 speakers:
-  - name: 'TBD'
-    bio: |
-      TBD
-    image: 'https://dummyimage.com/300x300/fff/aaa'
-    talk:
-      title: ''
-      abstract: |
-        TBD
-    social:
-      - icon: 'twitter'
-        url: 'https://x.com/i/flow/login?redirect_after_login=%2Fphpugdd'
-      - icon: 'linkedin'
-        url: 'https://www.linkedin.com/company/php-usergroup-dresden/posts/?feedView=all'
-      - icon: 'mastodon'
-        url: 'https://phpc.social/@phpugdd'
-    type: 'Keynote'
-
   - name: 'Christopher Hertel'
     bio: |
       Christopher Hertel is a seasoned PHP software engineer, Symfony expert, and active speaker in the international tech community. With a strong background in software architecture, agile development, and a deep curiosity for GenAI, he shares practical insights at conferences and meetups across Germany and Europe. As Head of Technical Program at AMCS Group, he drives innovation in enterprise software while contributing to open source and mentoring developer teams.
@@ -46,10 +29,16 @@ speakers:
         url: 'https://phpc.social/@shochdoerfer'
     type: 'Talk'
 
-  - name: 'TBD'
+  - name: 'Sebastian Feldmann'
     bio: |
-      TBD
-    image: 'https://dummyimage.com/300x300/fff/aaa'
+      Sebastian lives in Munich and Cologne supporting teams at CHECK24 developing software. 
+      
+      He started programming with BASIC on the C64 and moved over Assembler and C to languages like PHP and JavaScript. 
+      
+      With roughly 20 years of web experience he specialized in enterprise web applications. He is passionate about automation, performance and maintainable code.
+      
+      Sebastian is an open source contributor and maintainer of phpbu and a git hook library called CaptainHook.
+    image: '/assets/images/speakers/sebastian-feldmann.jpeg'
     talk:
       title: 'TBD'
       abstract: |
@@ -63,12 +52,12 @@ speakers:
         url: 'https://phpc.social/@phpugdd'
     type: 'Talk/Workshop'
 
-  - name: 'TBD'
+  - name: 'Patrick Pächnatz'
     bio: |
-      TBD
-    image: 'https://dummyimage.com/300x300/fff/aaa'
+      Patrick is an infrastructure solutions architect and security expert with a strong background in software development. He has been working in the IT industry for more than 25 years and has built and secured many product environments in datacenters all over the world.
+    image: 'assets/images/speakers/patrick-sw.webp'
     talk:
-      title: 'TBD'
+      title: 'Basics of Kubernetes'
       abstract: |
         TBA
     social:
@@ -78,6 +67,6 @@ speakers:
         url: 'https://www.linkedin.com/company/php-usergroup-dresden/posts/?feedView=all'
       - icon: 'mastodon'
         url: 'https://phpc.social/@phpugdd'
-    type: 'Talk/Workshop'
+    type: 'Workshop'
 
 
