@@ -71,6 +71,13 @@ schedule:
 
   - name: ''
     time: 'from 17:00'
+    topic: 'Outro'
+    card:
+    language: ''
+    speaker: false
+
+  - name: ''
+    time: 'from 17:30'
     topic: 'Community & Socializing'
     card:
     language: ''
