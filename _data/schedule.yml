@@ -64,9 +64,9 @@ schedule:
 
   - name: 'Patrick Pächnatz'
     time: 'from 13:15'
-    topic: 'Basics of Kubernetes (limited to 15 persons)'
+    topic: 'Modernes Secret Management in Kubernetes (limited to 15 persons)'
     card: '4'
-    language: 'en'
+    language: 'de'
     speaker: true
 
   - name: ''

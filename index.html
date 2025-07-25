@@ -50,9 +50,16 @@ layout: default
                 <div class="collapse" id="collapse-{{ forloop.index }}">
                     <h5 class="mb-1">Abstract</h5>
                     <p class="card-text mb-3">{{ speaker.talk.abstract | newline_to_br }}</p>
+                    {% if speaker.talk.detailed_abstract %}
+                        <ul>
+                            {% for item in speaker.talk.detailed_abstract %}
+                            <li>{{ item }}</li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
                     {% if speaker.bio %}
-                    <h5 class="mb-1">Bio</h5>
-                    <p class="card-text mb-3">{{ speaker.bio | newline_to_br }}</p>
+                        <h5 class="mb-1">Bio</h5>
+                        <p class="card-text mb-3">{{ speaker.bio | newline_to_br }}</p>
                     {% endif %}
                 </div>
                 {% endif %}
