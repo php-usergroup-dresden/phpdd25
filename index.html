@@ -14,9 +14,15 @@ layout: default
     <div class="h4 fw-light">
         <p>Why Attend?</p>
         <ul>
-            <li>Community & networking – Connect with PHP devs from diverse backgrounds: open-source maintainers, framework experts, architects, and beginners .</li>
-            <li>Top-tier content – Talks range from cutting-edge tools and best practices to architecture, testing, and sustainability.</li>
-            <li>Local charm – Held in Dresden, with opportunities to explore the local scene—breakfast, lunch, and even a stroll by the Elbe.</li>
+            <li>Community & networking – Connect with PHP devs from diverse backgrounds: open-source maintainers,
+                framework experts, architects, and beginners .
+            </li>
+            <li>Top-tier content – Talks range from cutting-edge tools and best practices to architecture, testing, and
+                sustainability.
+            </li>
+            <li>Local charm – Held in Dresden, with opportunities to explore the local scene—breakfast, lunch, and even
+                a stroll by the Elbe.
+            </li>
         </ul>
     </div>
 </div>
@@ -49,17 +55,19 @@ layout: default
                 <p class="card-text" style="height: 60px;">{{ speaker.talk.title }}</p>
                 <div class="collapse" id="collapse-{{ forloop.index }}">
                     <h5 class="mb-1">Abstract</h5>
-                    <p class="card-text mb-3">{{ speaker.talk.abstract | newline_to_br }}</p>
-                    {% if speaker.talk.detailed_abstract %}
-                        <ul>
-                            {% for item in speaker.talk.detailed_abstract %}
-                            <li>{{ item }}</li>
-                            {% endfor %}
-                        </ul>
-                    {% endif %}
+                    <div class="card-text mb-3">
+                        {{ speaker.talk.abstract | newline_to_br }}
+                        {% if speaker.talk.detailed_abstract %}
+                            <ul>
+                                {% for item in speaker.talk.detailed_abstract %}
+                                <li>{{ item }}</li>
+                                {% endfor %}
+                            </ul>
+                        {% endif %}
+                    </div>
                     {% if speaker.bio %}
-                        <h5 class="mb-1">Bio</h5>
-                        <p class="card-text mb-3">{{ speaker.bio | newline_to_br }}</p>
+                    <h5 class="mb-1">Bio</h5>
+                    <p class="card-text mb-3">{{ speaker.bio | newline_to_br }}</p>
                     {% endif %}
                 </div>
                 {% endif %}
