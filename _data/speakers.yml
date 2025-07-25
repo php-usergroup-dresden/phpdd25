@@ -57,9 +57,22 @@ speakers:
       Patrick is an infrastructure solutions architect and security expert with a strong background in software development. He has been working in the IT industry for more than 25 years and has built and secured many product environments in datacenters all over the world.
     image: 'assets/images/speakers/patrick-sw.webp'
     talk:
-      title: 'Basics of Kubernetes'
+      title: 'Modernes Secret Management in Kubernetes'
       abstract: |
-        TBA
+        In diesem praxisorientierten Workshop beschäftigen wir uns mit dem Thema sicheres und zentrales Secret Management in Kubernetes-Umgebungen. Im Mittelpunkt steht der External Secrets Operator (ESO) – ein leistungsstarkes Open-Source-Tool, das Secrets aus externen Secret Stores wie 1Password, AWS Secrets Manager oder GCP Secret Manager sicher in Kubernetes integriert. Nach einer kompakten Einführung in die Herausforderungen und Prinzipien modernen Secret Managements in Cloud-nativen Umgebungen demonstrieren wir konkrete Anwendungsbeispiele: Anhand einer PostgreSQL-Datenbank zeigen wir, wie sich verschiedene externe Secret-Backends nahtlos in Kubernetes-Workloads einbinden lassen – inklusive Authentifizierung, Rotation und Zugriffskontrolle.
+        
+        Zielgruppe:
+        Developer, DevOps-Engineers, Platform-Teams, Kubernetes-Architekten/Administratoren und Sicherheitsexperten, die moderne und sichere Methoden zur Verwaltung von Secrets in produktiven Kubernetes-Clustern evaluieren oder bereits einsetzen möchten. (edited)
+
+        Was dich erwartet:
+      detailed_abstract:
+        - Überblick über aktuelle Herausforderungen im Kubernetes Secret Management
+        - Einführung in den External Secrets Operator (Funktionsweise, Architektur, Vorteile)
+        - Best Practices für Sicherheit, Zugriffskontrolle und Automatisierung
+        - Live-Demonstrationen mit
+        - 1Password als Team-orientierter Secret Store
+        - AWS Secrets Manager (KMS-basiert) für Cloud-native Sicherheit
+        - Google Cloud Secret Manager mit GCP IAM-Integration
     social:
       - icon: 'twitter'
         url: 'https://x.com/i/flow/login?redirect_after_login=%2Fphpugdd'
