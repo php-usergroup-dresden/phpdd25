@@ -45,17 +45,15 @@ speakers:
         TBA
     social:
       - icon: 'twitter'
-        url: 'https://x.com/i/flow/login?redirect_after_login=%2Fphpugdd'
+        url: 'https://twitter.com/movetodevnull'
       - icon: 'linkedin'
-        url: 'https://www.linkedin.com/company/php-usergroup-dresden/posts/?feedView=all'
-      - icon: 'mastodon'
-        url: 'https://phpc.social/@phpugdd'
+        url: 'https://de.linkedin.com/in/sebastian-feldmann-9b1921b9'
     type: 'Talk/Workshop'
 
   - name: 'Patrick Pächnatz'
     bio: |
       Patrick is an infrastructure solutions architect and security expert with a strong background in software development. He has been working in the IT industry for more than 25 years and has built and secured many product environments in datacenters all over the world.
-    image: 'assets/images/speakers/patrick-sw.webp'
+    image: 'assets/images/speakers/patrick-paechnatz.jpg'
     talk:
       title: 'Modernes Secret Management in Kubernetes'
       abstract: |
@@ -74,12 +72,8 @@ speakers:
         - AWS Secrets Manager (KMS-basiert) für Cloud-native Sicherheit
         - Google Cloud Secret Manager mit GCP IAM-Integration
     social:
-      - icon: 'twitter'
-        url: 'https://x.com/i/flow/login?redirect_after_login=%2Fphpugdd'
       - icon: 'linkedin'
-        url: 'https://www.linkedin.com/company/php-usergroup-dresden/posts/?feedView=all'
-      - icon: 'mastodon'
-        url: 'https://phpc.social/@phpugdd'
+        url: 'https://www.linkedin.com/in/patrick-paechnatz/'
     type: 'Workshop'
 
 
