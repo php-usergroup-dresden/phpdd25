@@ -40,9 +40,28 @@ speakers:
       Sebastian is an open source contributor and maintainer of phpbu and a git hook library called CaptainHook.
     image: '/assets/images/speakers/sebastian-feldmann.jpeg'
     talk:
-      title: 'TBD'
+      title: 'Get better, not bigger/Domain Driven Design - A team approach'
       abstract: |
-        TBA
+        Talk: Get better, not bigger  
+  
+        Success for a business is often measured in growth. How much more percent of the market it captures, how much more sales were made, how much more customers it served.
+  
+        Groth is good, at least for the business. For IT teams and systems this is not necessarily true. Fast growing IT system tend to get overly complex and really hard to manage.
+  
+        To keep up, we don't just need, more services, more people or more process. We need to get better!
+  
+        In this talk, I'll share how embracing simplicity and clear ownership can help your business scale without pushing the complexity of your IT systems to absurd levels.
+        
+        
+        Workshop: Domain Driven Design - A team approach 
+
+        One of the most important learnings in my software development career is:
+  
+        If you don't fully understand what you are building, you can never build the right thing.
+  
+        Waiting for Product Owners or Software Architects to write the perfect specification that you just have to implement to get the perfect result is something I never saw really working.
+  
+        Domain Driven Design is a strategy to close the gap between business and IT, between problem and solution. In this workshop I will show you three practices that you can start using tomorrow to better understand your business and simplify your applications.
     social:
       - icon: 'twitter'
         url: 'https://twitter.com/movetodevnull'
