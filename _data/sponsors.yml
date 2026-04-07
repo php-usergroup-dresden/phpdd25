@@ -1,6 +1,6 @@
 email: 'orga@phpug-dresden.org'
 partner_package:
-  price: '400,- €'
+  price: '500,- €'
   price_reduced: '300,- €'
   headline: 'What is a partner package?'
   bullets:
@@ -36,4 +36,6 @@ sponsors:
     image: '/assets/images/sponsors/mpowr-it.webp'
     url: 'https://mpowr.it'
 
-
+  - name: '☝️ Your company logo here'
+    image: 'https://dummyimage.com/300x300/fff/aaa'
+    url: 'mailto:orga@phpug-dresden.org'
