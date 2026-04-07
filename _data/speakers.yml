@@ -1,98 +1,80 @@
 speakers:
-  - name: 'Christopher Hertel'
+  - name: 'TBD'
     bio: |
-      Christopher Hertel is a seasoned PHP software engineer, Symfony expert, and active speaker in the international tech community. With a strong background in software architecture, agile development, and a deep curiosity for GenAI, he shares practical insights at conferences and meetups across Germany and Europe. As Head of Technical Program at AMCS Group, he drives innovation in enterprise software while contributing to open source and mentoring developer teams.
-    image: 'https://avatars.githubusercontent.com/u/2852185?v=4'
+      TBD
+    image: 'https://dummyimage.com/300x300/fff/aaa'
     talk:
-      title: 'Agentic Applications with Symfony'
+      title: ''
       abstract: |
-        Let's dive into the world of GenAI and have a look at the basic concepts, common use cases and hands-on examples of integrating LLMs and other AI models into our apps. We will discuss and discover features beyond chatbots or plain text generation, while working with your favorite programming language PHP.  By the end, you will be ready to bring agentic functionality into your own products and tools.
+        TBD
     social:
-      - icon: 'linkedin'
-        url: 'https://www.linkedin.com/in/christopher-hertel/'
-    type: 'Talk/Workshop'
-
-  - name: 'Stephan Hochdörfer'
-    bio: |
-      Stephan Hochdörfer is the Head of IT Business Operations at bitExpert AG, a company that specializes in pro-code and low-code software development. In his role, he oversees the software development processes, technical operations, sales, and strategic planning.
-    image: '/assets/images/speakers/stephan-hochdoerfer.webp'
-    talk:
-      title: 'Simplify Your Dev Workflow with DDEV'
-      abstract: |
-        This session explores how DDEV enhances your development workflow by providing a standardized yet customizable approach to containerization. DDEV allows easy setup and management of your PHP application in a containerized environment, simplifying deployment and ensuring a consistent setup for all team members. Using DDEV enhances collaboration and reduces onboarding time for new developers, helping deliver projects on time, confidently, and efficiently.
-    social:
-      - icon: 'linkedin'
-        url: 'https://www.linkedin.com/in/shochdoerfer/'
       - icon: 'twitter'
-        url: 'https://twitter.com/shochdoerfer'
+        url: 'https://x.com/i/flow/login?redirect_after_login=%2Fphpugdd'
+      - icon: 'linkedin'
+        url: 'https://www.linkedin.com/company/php-usergroup-dresden/posts/?feedView=all'
       - icon: 'mastodon'
-        url: 'https://phpc.social/@shochdoerfer'
-    type: 'Talk'
+        url: 'https://phpc.social/@phpugdd'
 
-  - name: 'Sebastian Feldmann'
+  - name: 'TBD'
     bio: |
-      Sebastian lives in Munich and Cologne supporting teams at CHECK24 developing software. 
-      
-      He started programming with BASIC on the C64 and moved over Assembler and C to languages like PHP and JavaScript. 
-      
-      With roughly 20 years of web experience he specialized in enterprise web applications. He is passionate about automation, performance and maintainable code.
-      
-      Sebastian is an open source contributor and maintainer of phpbu and a git hook library called CaptainHook.
-    image: '/assets/images/speakers/sebastian-feldmann.jpeg'
+      TBD
+    image: 'https://dummyimage.com/300x300/fff/aaa'
     talk:
-      title: 'Get better, not bigger/Domain Driven Design - A team approach'
+      title: 'TBD'
       abstract: |
-        Talk: Get better, not bigger  
-  
-        Success for a business is often measured in growth. How much more percent of the market it captures, how much more sales were made, how much more customers it served.
-  
-        Groth is good, at least for the business. For IT teams and systems this is not necessarily true. Fast growing IT system tend to get overly complex and really hard to manage.
-  
-        To keep up, we don't just need, more services, more people or more process. We need to get better!
-  
-        In this talk, I'll share how embracing simplicity and clear ownership can help your business scale without pushing the complexity of your IT systems to absurd levels.
-        
-        
-        Workshop: Domain Driven Design - A team approach 
-
-        One of the most important learnings in my software development career is:
-  
-        If you don't fully understand what you are building, you can never build the right thing.
-  
-        Waiting for Product Owners or Software Architects to write the perfect specification that you just have to implement to get the perfect result is something I never saw really working.
-  
-        Domain Driven Design is a strategy to close the gap between business and IT, between problem and solution. In this workshop I will show you three practices that you can start using tomorrow to better understand your business and simplify your applications.
+        TBA
     social:
       - icon: 'twitter'
-        url: 'https://twitter.com/movetodevnull'
+        url: 'https://x.com/i/flow/login?redirect_after_login=%2Fphpugdd'
       - icon: 'linkedin'
-        url: 'https://de.linkedin.com/in/sebastian-feldmann-9b1921b9'
-    type: 'Talk/Workshop'
+        url: 'https://www.linkedin.com/company/php-usergroup-dresden/posts/?feedView=all'
+      - icon: 'mastodon'
+        url: 'https://phpc.social/@phpugdd'
 
-  - name: 'Patrick Pächnatz'
+  - name: 'TBD'
     bio: |
-      Patrick is an infrastructure solutions architect and security expert with a strong background in software development. He has been working in the IT industry for more than 25 years and has built and secured many product environments in datacenters all over the world.
-    image: 'assets/images/speakers/patrick-paechnatz.jpg'
+      TBD
+    image: 'https://dummyimage.com/300x300/fff/aaa'
     talk:
-      title: 'Modernes Secret Management in Kubernetes'
+      title: 'TBD'
       abstract: |
-        In diesem praxisorientierten Workshop beschäftigen wir uns mit dem Thema sicheres und zentrales Secret Management in Kubernetes-Umgebungen. Im Mittelpunkt steht der External Secrets Operator (ESO) – ein leistungsstarkes Open-Source-Tool, das Secrets aus externen Secret Stores wie 1Password, AWS Secrets Manager oder GCP Secret Manager sicher in Kubernetes integriert. Nach einer kompakten Einführung in die Herausforderungen und Prinzipien modernen Secret Managements in Cloud-nativen Umgebungen demonstrieren wir konkrete Anwendungsbeispiele: Anhand einer PostgreSQL-Datenbank zeigen wir, wie sich verschiedene externe Secret-Backends nahtlos in Kubernetes-Workloads einbinden lassen – inklusive Authentifizierung, Rotation und Zugriffskontrolle.
-        
-        Zielgruppe:
-        Developer, DevOps-Engineers, Platform-Teams, Kubernetes-Architekten/Administratoren und Sicherheitsexperten, die moderne und sichere Methoden zur Verwaltung von Secrets in produktiven Kubernetes-Clustern evaluieren oder bereits einsetzen möchten. (edited)
-
-        Was dich erwartet:
-      detailed_abstract:
-        - Überblick über aktuelle Herausforderungen im Kubernetes Secret Management
-        - Einführung in den External Secrets Operator (Funktionsweise, Architektur, Vorteile)
-        - Best Practices für Sicherheit, Zugriffskontrolle und Automatisierung
-        - Live-Demonstrationen mit
-        - 1Password als Team-orientierter Secret Store
-        - AWS Secrets Manager (KMS-basiert) für Cloud-native Sicherheit
-        - Google Cloud Secret Manager mit GCP IAM-Integration
+        TBA
     social:
+      - icon: 'twitter'
+        url: 'https://x.com/i/flow/login?redirect_after_login=%2Fphpugdd'
       - icon: 'linkedin'
-        url: 'https://www.linkedin.com/in/patrick-paechnatz/'
-    type: 'Workshop'
+        url: 'https://www.linkedin.com/company/php-usergroup-dresden/posts/?feedView=all'
+      - icon: 'mastodon'
+        url: 'https://phpc.social/@phpugdd'
 
+  - name: 'TBD'
+    bio: |
+      TBD
+    image: 'https://dummyimage.com/300x300/fff/aaa'
+    talk:
+      title: 'TBD'
+      abstract: |
+        TBA
+    social:
+      - icon: 'twitter'
+        url: 'https://x.com/i/flow/login?redirect_after_login=%2Fphpugdd'
+      - icon: 'linkedin'
+        url: 'https://www.linkedin.com/company/php-usergroup-dresden/posts/?feedView=all'
+      - icon: 'mastodon'
+        url: 'https://phpc.social/@phpugdd'
 
+  - name: 'TBD'
+    bio: |
+      TBD
+    image: 'https://dummyimage.com/300x300/fff/aaa'
+    talk:
+      title: 'TBD'
+      abstract: |
+        TBA
+    social:
+      - icon: 'twitter'
+        url: 'https://x.com/i/flow/login?redirect_after_login=%2Fphpugdd'
+      - icon: 'linkedin'
+        url: 'https://www.linkedin.com/company/php-usergroup-dresden/posts/?feedView=all'
+      - icon: 'mastodon'
+        url: 'https://phpc.social/@phpugdd'
