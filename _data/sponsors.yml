@@ -1,7 +1,7 @@
 email: 'orga@phpug-dresden.org'
 partner_package:
   price: '500,- €'
-  price_reduced: '300,- €'
+  price_reduced: '400,- €'
   headline: 'What is a partner package?'
   bullets:
     - 3 x free tickets
